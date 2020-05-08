@@ -1,0 +1,11 @@
+piVersion: 1
+
+datasources:
+
+  - name: influxdb
+    type: influxdb
+    access: proxy
+    database: telegraf
+    url: http://influxdb:8086
+    jsonData:
+      timeInterval: "10s"
