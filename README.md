@@ -14,5 +14,8 @@ VMware Monitoring Telegraf Grafana Docker-Compose
 #
 
 ``` 
+ vcenters = [ "https://hostname.domain.com/sdk" ]
+    username = "user@domain.com"
+    password = "Password"
 
 ```
