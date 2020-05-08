@@ -21,3 +21,5 @@ https://grafana.com/grafana/dashboards/8159
     password = "Password"
 
 ```
+![Image description](https://www.jorgedelacruz.es/wp-content/uploads/2020/01/vsphere-grafana-summaries.png)
+
