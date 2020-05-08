@@ -1,6 +1,8 @@
 # VMware-Telegraf-Influxdb-Grafana
-VMware Monitoring Telegraf Grafana Docker-Compose
+Vsphere Monitoring by Telegraf Grafana Docker-Compose
 
+Read :
+https://grafana.com/grafana/dashboards/8159
 
 
 # Installtion :
@@ -11,7 +13,7 @@ VMware Monitoring Telegraf Grafana Docker-Compose
 
 ```
 
-#
+# Edit vsphere-stats.conf with your vsphere setting
 
 ``` 
  vcenters = [ "https://hostname.domain.com/sdk" ]
